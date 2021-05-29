@@ -1,0 +1,8 @@
+[package]
+name = "hangman"
+version = "0.1.0"
+authors = ["Adam Turnbull <adam@adamt.com>"]
+
+[dependencies]
+rand = "0.3"
+ncurses = "5.85"
